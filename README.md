@@ -1,2 +1,2 @@
 # my-awesome-project
-My big project to test all feature of GitHub for my big formation at Wild Code School
+This awesome project is created to experiment git notions like clone, push and pull. 
